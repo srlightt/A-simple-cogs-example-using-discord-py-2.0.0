@@ -1,7 +1,6 @@
 A simple example of how to use cogs with discord py 2.0.0
 
-**Now with changes to async initialisation in discord.py**
-,see more here:
+**Now with changes to async initialisation in discord.py**, see more here:
 
 https://gist.github.com/Rapptz/6706e1c8f23ac27c98cee4dd985c8120
 
